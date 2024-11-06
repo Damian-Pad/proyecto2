@@ -1,1 +1,2 @@
-# proyecto2
+### Fmi proyecto 
+ ejemplo de readme
